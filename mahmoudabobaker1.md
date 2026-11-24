@@ -1,7 +1,9 @@
  💫 About Me:
-                                👋 Hey there, I'm Mahmoud<br><br>                    
-                               💻 Fullstack Developer | 🎨 UI/UX Designer<br><br>                     
-✨ New designs bring your website to life<br><br>🚀 I build fast, modern websites and web apps, from the first idea to launch<br>🎨 I design clean, user-friendly interfaces before writing a single line of code<br>⚡ I love smooth animations and the small details that make a site feel alive<br>🌱 Always learning new tools and technologies to level up my work<br>📍 Based in Cairo, Egypt 🇪🇬 
+                                <h1 align="center">👋 Hey there, I'm Mahmoud</h1> 
+                            <h2 align="center">💻 Fullstack Developer | 🎨 UI/UX Designer</h2> 
+                           <p align="center">✨ <i>New Designs bring your website to life</i></p>
+                           
+I build fast, modern websites and web apps, from the first idea to launch<br>🎨 I design clean, user-friendly interfaces before writing a single line of code<br>⚡ I love smooth animations and the small details that make a site feel alive<br>🌱 Always learning new tools and technologies to level up my work<br>📍 Based in Cairo, Egypt 🇪🇬 
 
 
 # 💻 Tech Stack:
